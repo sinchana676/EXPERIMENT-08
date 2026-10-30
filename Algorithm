@@ -1,0 +1,17 @@
+Aim
+To write a Python program using regular expressions (re module) to validate an email ID or a 10-digit mobile number entered by the user.
+
+Algorithm
+
+Step-1: Start the program.
+Step-2: Import the re module.
+Step-3: Get an email ID or mobile number from the user.Step-4: Define a regular expression pattern for email validation.
+Step-5: Define a regular expression pattern for mobile number validation.
+Step-6: Use re.fullmatch() to check whether the input matches the email pattern.
+Step-7: If the email pattern matches, print "Valid email id".
+Step-8: Otherwise, check whether the input matches the mobile number pattern.
+Step-9: If the mobile number pattern matches, print "Valid mobile number".
+Step-10: Otherwise, print "Invalid email or mobile number".
+Step-11: Stop the program.
+
+
